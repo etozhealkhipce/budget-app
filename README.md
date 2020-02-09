@@ -1,6 +1,6 @@
 # budget-app
 
-## Simple budget app
+## Simple homework
 ```
 
 ### Customize configuration
